@@ -7,16 +7,16 @@
   {
   "op" : "add",
   "path" : "/lightColor",
-  "value" : [180, 200, 250]
+  "value" : [255, 255, 255]
   },
   {
   "op" : "add",
   "path" : "/beamWidth",
-  "value" : 0.075
+  "value" : 0.1
   },
   {
   "op" : "add",
   "path" : "/ambientFactor",
-  "value" : 0.35
+  "value" : 0.5
   }
 ]
