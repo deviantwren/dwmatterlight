@@ -1,0 +1,11 @@
+{
+  "name" : "dwmatterlight",
+  "version" : "Beta v. Upbeat Giraffe - Update 1",
+  "path" : ".",
+  "dependencies" : [""],
+  "metadata": {
+    "author" : "deviantWren",
+    "description" : "Makes the matter manipulator mining tool also project a flashlight beam.",
+    "support_url" : "content.hope@gmail.com"
+        }
+}

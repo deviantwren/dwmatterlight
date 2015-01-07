@@ -1,0 +1,22 @@
+[
+  {
+  "op" : "add",
+  "path" : "/lightPosition",
+  "value" : [4, 0]
+  },
+  {
+  "op" : "add",
+  "path" : "/lightColor",
+  "value" : [180, 200, 250]
+  },
+  {
+  "op" : "add",
+  "path" : "/beamWidth",
+  "value" : 0.075
+  },
+  {
+  "op" : "add",
+  "path" : "/ambientFactor",
+  "value" : 0.35
+  }
+]
